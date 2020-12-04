@@ -2,7 +2,9 @@
 import ReportRepair
 import PasswordPhilosophy
 import TobogganTrajectory
+import PassportProcessing
 
 ReportRepair.runDayOne()
 PasswordPhilosophy.runDayTwo()
 TobogganTrajectory.runDayThree()
+PassportProcessing.runDayFour()
