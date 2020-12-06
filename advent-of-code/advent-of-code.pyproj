@@ -25,6 +25,9 @@
     <Compile Include="BinaryBoarding.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CustomCustoms.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PassportProcessing.py">
       <SubType>Code</SubType>
     </Compile>
