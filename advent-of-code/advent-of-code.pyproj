@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="advent_of_code.py" />
+    <Compile Include="BinaryBoarding.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PassportProcessing.py">
       <SubType>Code</SubType>
     </Compile>
