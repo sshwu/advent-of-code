@@ -28,6 +28,9 @@
     <Compile Include="CustomCustoms.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="HandheldHalting.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="HandyHaversacks.py">
       <SubType>Code</SubType>
     </Compile>
