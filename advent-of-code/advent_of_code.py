@@ -4,11 +4,13 @@
 #import TobogganTrajectory
 #import PassportProcessing
 #import BinaryBoarding
-import CustomCustoms
+#import CustomCustoms
+import HandyHaversacks
 
 #ReportRepair.runDayOne()
 #PasswordPhilosophy.runDayTwo()
 #TobogganTrajectory.runDayThree()
 #PassportProcessing.runDayFour()
 #BinaryBoarding.runDayFive()
-CustomCustoms.runDaySix()
+#CustomCustoms.runDaySix()
+HandyHaversacks.runDaySeven()
