@@ -6,7 +6,8 @@
 #import BinaryBoarding
 #import CustomCustoms
 #import HandyHaversacks
-import HandheldHalting
+#import HandheldHalting
+import EncodingError
 
 #ReportRepair.runDayOne()
 #PasswordPhilosophy.runDayTwo()
@@ -15,4 +16,5 @@ import HandheldHalting
 #BinaryBoarding.runDayFive()
 #CustomCustoms.runDaySix()
 #HandyHaversacks.runDaySeven()
-HandheldHalting.runDayEight()
+#HandheldHalting.runDayEight()
+EncodingError.runDayNine()
