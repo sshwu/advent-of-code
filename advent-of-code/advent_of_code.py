@@ -7,7 +7,8 @@
 #import CustomCustoms
 #import HandyHaversacks
 #import HandheldHalting
-import EncodingError
+#import EncodingError
+import AdapterArray
 
 #ReportRepair.runDayOne()
 #PasswordPhilosophy.runDayTwo()
@@ -17,4 +18,5 @@ import EncodingError
 #CustomCustoms.runDaySix()
 #HandyHaversacks.runDaySeven()
 #HandheldHalting.runDayEight()
-EncodingError.runDayNine()
+#EncodingError.runDayNine()
+AdapterArray.runDayTen()
