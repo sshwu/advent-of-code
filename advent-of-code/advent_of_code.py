@@ -8,7 +8,9 @@
 #import HandyHaversacks
 #import HandheldHalting
 #import EncodingError
-import AdapterArray
+#import AdapterArray
+#import SeatingSystem
+import RainRisk
 
 #ReportRepair.runDayOne()
 #PasswordPhilosophy.runDayTwo()
@@ -19,4 +21,6 @@ import AdapterArray
 #HandyHaversacks.runDaySeven()
 #HandheldHalting.runDayEight()
 #EncodingError.runDayNine()
-AdapterArray.runDayTen()
+#AdapterArray.runDayTen()
+#SeatingSystem.runDayEleven()
+RainRisk.runDayTwelve()

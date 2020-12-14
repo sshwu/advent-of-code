@@ -46,7 +46,13 @@
     <Compile Include="PasswordPhilosophy.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="RainRisk.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ReportRepair.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SeatingSystem.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="TobogganTrajectory.py">
